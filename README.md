@@ -18,3 +18,6 @@ Graphics showed:
 ![Untitled](https://github.com/dennisMSF/Python-HeatMap/blob/main/fig2.png)
 ![Untitled](https://github.com/dennisMSF/Python-HeatMap/blob/main/fig3.png)
 ![Untitled](https://github.com/dennisMSF/Python-HeatMap/blob/main/fig4.png)
+
+# To do:
+1. Use web-scrapping to update automatically the maps with new data
