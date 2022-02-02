@@ -1,5 +1,7 @@
 # Python-HeatMap
-Librerias que se necesitan:
+This project was made with the intention to see the distribution of the covid cases around the world using a heat for the visualization.
+
+Libraries needed:
 
 1. Numpy
 2. Pandas
@@ -7,11 +9,11 @@ Librerias que se necesitan:
 4. scipy
 5. openpyxl (para leer el archivo xlsx)
 
-La data estática se utilizó del siguiente repositorio:
+Static Data used in this project was taken from:
 
 [Novel Coronavirus (COVID-19) Cases Data - Humanitarian Data Exchange (humdata.org)](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 
-Las figuras que se muestran:
+Graphics showed:
 ![Untitled](https://github.com/dennisMSF/Python-HeatMap/blob/main/fig1.png)
 ![Untitled](https://github.com/dennisMSF/Python-HeatMap/blob/main/fig2.png)
 ![Untitled](https://github.com/dennisMSF/Python-HeatMap/blob/main/fig3.png)
