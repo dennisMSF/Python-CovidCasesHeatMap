@@ -13,4 +13,6 @@ La data estática se utilizó del siguiente repositorio:
 
 Las figuras que se muestran:
 ![Untitled](https://github.com/dennisMSF/Python-HeatMap/blob/main/fig1.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76704a34-da40-4863-a42b-af23366786fe/Untitled.png)
+![Untitled](https://github.com/dennisMSF/Python-HeatMap/blob/main/fig2.png)
+![Untitled](https://github.com/dennisMSF/Python-HeatMap/blob/main/fig3.png)
+![Untitled](https://github.com/dennisMSF/Python-HeatMap/blob/main/fig4.png)
