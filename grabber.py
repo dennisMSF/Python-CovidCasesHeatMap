@@ -20,5 +20,5 @@ for i in range(len(get_table_data)):
 	dic[key] = values
 live_data = pd.DataFrame(dic).drop([14,15,16,17,18,19,20,21]).iloc[2:,1:].T
 live_data.columns = ["Total Cases","New Cases", "Total Deaths", "New Deaths", "Total Recovered", "New Recovered", "Active", "Serious Critical", "Tot Cases/1M pop",
-		     "Deaths /1M pop", "Total Test", "Tests /1M pop]
+		     "Deaths /1M pop", "Total Test", "Tests /1M pop"]
 print(live_data)
